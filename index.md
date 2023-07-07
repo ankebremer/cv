@@ -1,4 +1,4 @@
-# Anke Bremer | CV
+# Anke Bremer
   
 [bremeran@googlemail.com](mailto:bremeran@googlemail.com) | [LinkedIn](https://www.linkedin.com/in/anke-bremer-29727179/)
 
@@ -6,7 +6,7 @@ I am fascinated by solving complex problems where I can use my clear and logical
 I love learning and believe in continuous improvement, especially in regard to code quality.
 I would love to build software systems that aid communities and positively impact the world we live in.
 
-## Skills 5
+## Skills
 Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Agile methodologies
 
 ## Experience
