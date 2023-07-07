@@ -1,91 +1,58 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Anke Bremer
+Software developer with a passion for solving problems.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+[E-Mail ](mailto:bremeran@googlemail.com)
 
+## Skills
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+### Lead Software Developer
+[Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
+A wrap platform to manage wealth with a focus on pension products.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Technical lead for a team that consists of 6 developers and 2 business analysts
+* Line managing and mentoring 5 people (regular catch-ups, goal setting, progression)
+* Currently bringing a legacy Java 8 code base to Java 17
+* Currently designing and implementing a solution for the calculation of annual Cost and Charges statements (Regulatory requirement) and an integration with an existing tool for ad-hoc calculations
+* Designed and developed an Intelliflo data integration for adviser income statements
+* Analysed code base for improvements to increase performance and maintainability
+* Established agile ceremonies such as retrospective to be a collaborative and constructive feedback opportunity for the team to actively shape and improve their way of working
+* Grew development team and oversaw collaborative hiring process
+* Participate in code reviews and planning sessions
 
 
-## Education
+### Senior Software Developer
+[Nucleus Financial](https://www.nucleusfinancial.com/) _(May 2021 - December 2021)_ <br>
+A wrap platform to manage wealth with a focus on pension products.
 
-`1654-1660`
-__The King's School, Grantham.__
+### Software Developer
+[Nucleus Financial](https://www.nucleusfinancial.com/) _(April 2017 - May 2021)_ <br>
+A wrap platform to manage wealth with a focus on pension products.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* Improved the tax estimate calculation by using latest fund data provided on a daily basis from a financial data provider
+* Improved the performance of an algorithm calculating and backfilling historic tax estimates into a DB. Those were to be integrated into our platform reporting tool. I reduced the runtime from several days to 3 hours 
+* Participated in implementing a daily report to support advisers in being compliant with MiFID II regulations
+* Analysing and fixing bugs across the code base
 
-- Sizar
+### Junior Software Developer
+[Nucleus Financial](https://www.nucleusfinancial.com/) _(April 2015 - April 2017)_ <br>
+A wrap platform to manage wealth with a focus on pension products.
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+* Participated in code reviews, planning meetings and refinements
+* Designed and implemented a scheduled mechanism to obtain and store historic data as well as daily updates of MSCI benchmarks data. This provided a source for our performance tool to allow the generation of benchmark overlays. The project involved analysing files and data provided by MSCI, designing a DB structure to store the benchmark data, and populating the DB with historic data. The DB structure was well-designed and allowed us to easily import data from other benchmark providers into the same schema a few years later and is currently still in use.
+* Designed and implemented a solution to produce monthly and quarterly reports for PEP and AML sanction checks in cooperation with Business Analysts and the Financial Crime team
+* Implemented an automated solution for the calculation of tax estimates for Onshore bond accounts. I transformed a manual, time-consuming, spreadsheet driven calculation from a daily 4-hour long process into a fast and reliable calculation that generates the report in 3 minutes.
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Personal
+* Coordinator of the Edinburgh Greenpeace group since 2016
+* Currently mentoring a student in the [Career Ready programme] (https://careerready.org.uk/) 2022/2023
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
