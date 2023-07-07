@@ -4,6 +4,7 @@ Software developer with a passion for solving problems and delivering high-quali
 [E-Mail ](mailto:bremeran@googlemail.com)
 
 ## Skills
+Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, DynamoDB, GraphQL
 
 ## Experience
 
@@ -12,21 +13,25 @@ Software developer with a passion for solving problems and delivering high-quali
 A wrap platform to manage wealth with a focus on pension products.
 
 * Technical lead for a team that consists of 6 developers and 2 business analysts
-* Line managing and mentoring 5 people (regular catch-ups, goal setting, progression)
+* Line manage and mentor 5 people (regular catch-ups, goal setting, progression)
+* Participate in code reviews, planning sessions and agile ceremonies
 * Currently bringing a legacy Java 8 code base to Java 17
-* Currently designing and implementing a solution for the calculation of annual Cost and Charges statements (Regulatory requirement) and an integration with an existing tool for ad-hoc calculations
-* Designed and developed an Intelliflo data integration for adviser income statements
+* Designed and co-implemented a solution for the calculation of annual Cost and Charges statements and the possibility for a future integration with an existing reporting tool for fast ad-hoc calculations
+* Designed and co-developed an Intelliflo data integration for adviser income statements
 * Analysed code base for improvements to increase performance and maintainability
 * Established agile ceremonies such as retrospective to be a collaborative and constructive feedback opportunity for the team to actively shape and improve their way of working
 * Grew development team and oversaw collaborative hiring process
-* Participate in code reviews and planning sessions
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, DynamoDB
 
 
 ### Senior Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(May 2021 - December 2021)_ <br>
 A wrap platform to manage wealth with a focus on pension products.
 
-* assisted in porting of several batch and multithreaded ETL processes to AWS Lambda
+* Assisted in porting of several batch and multithreaded ETL processes to AWS Lambda
+* Co-implemented GraphQL API
+* mentored more junior team members
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS Lambda, AWS S3
 
 
 ### Software Developer
@@ -41,8 +46,8 @@ A wrap platform to manage wealth with a focus on pension products.
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning to improve download time of platform reports
 * Analysed and fixed bugs across the code base
-* Participated in code reviews, planning meetings, refinements and software releases and supported junior team members
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, 
+* Participated in code reviews, planning meetings, refinements and software releases and mentored more junior team members
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL
 
 
 ### Junior Software Developer
