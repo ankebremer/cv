@@ -13,8 +13,7 @@ Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3,
 A wrap platform to manage wealth with a focus on pension products.
 
 * Technical lead for a team that consists of 6 developers and 2 business analysts
-* Line manage and mentor 5 people (regular catch-ups, goal setting, progression)
-* Participate in code reviews, planning sessions and agile ceremonies
+* Line manage and mentor 5 developer
 * Currently bringing a legacy Java 8 code base to Java 17
 * Designed and co-implemented a solution for the calculation of annual Cost and Charges statements and the possibility for a future integration with an existing reporting tool for fast ad-hoc calculations
 * Designed and co-developed an Intelliflo data integration for adviser income statements
@@ -38,15 +37,12 @@ A wrap platform to manage wealth with a focus on pension products.
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(April 2017 - May 2021)_ <br>
 A wrap platform to manage wealth with a focus on pension products.
 
-* Improved the tax estimate calculation by using latest fund data provided on a daily basis from a financial data provider
-* Improved the performance of an algorithm calculating and backfilling historic tax estimates into a DB. Those were to be integrated into our platform reporting tool. I reduced the runtime from several days to 3 hours 
+* Improved the performance of an algorithm calculating and backfilling historic tax estimates. I reduced the runtime from several days to 3 hours.
 * Participated in implementing a daily report to support advisers in being compliant with MiFID II regulations
-* Participated in implementing a solution to calculate fee rebates for cutomers based on different criteria. This involved designing the logic to determine eligible customers as well as implementing the calculation.
 * Supported a DB upgrade which involved extensive testing and analysis across all our internal applications and a partial re-write of a number of platform reports due to schema changes.
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning to improve download time of platform reports
-* Analysed and fixed bugs across the code base
-* Participated in code reviews, planning meetings, refinements and software releases and mentored more junior team members
+* Mentored more junior team members
 * _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL
 
 
