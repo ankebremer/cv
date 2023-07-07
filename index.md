@@ -1,5 +1,5 @@
 # Anke Bremer
-Software developer with a passion for solving problems.
+Software developer with a passion for solving problems and delivering high-quality solutions.
 
 [E-Mail ](mailto:bremeran@googlemail.com)
 
@@ -58,7 +58,7 @@ A wrap platform to manage wealth with a focus on pension products.
 
 ## Personal
 * Coordinator of the Edinburgh Greenpeace group since 2016
-* Currently mentoring a student in the [Career Ready programme] (https://careerready.org.uk/) 2022/2023
+* Currently mentoring a student in the [Career Ready](https://careerready.org.uk/) programme 2022/2023
 
 
 <!-- ### Footer
