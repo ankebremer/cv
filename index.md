@@ -1,7 +1,7 @@
 # Anke Bremer
-Software developer with a passion for solving problems and delivering high-quality solutions.
+Software developer with a passion for solving problems, collaboration and delivering high-quality solutions.
 
-[E-Mail ](mailto:bremeran@googlemail.com)
+[E-Mail](mailto:bremeran@googlemail.com) | [LinkedIn](https://www.linkedin.com/in/anke-bremer-29727179/)
 
 ## Skills
 Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, DynamoDB, GraphQL
@@ -25,7 +25,6 @@ A wrap platform to manage wealth with a focus on pension products.
 
 ### Senior Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(May 2021 - December 2021)_ <br>
-A wrap platform to manage wealth with a focus on pension products.
 
 * Assisted in porting of several batch and multithreaded ETL processes to AWS Lambda
 * Co-implemented GraphQL API
@@ -35,7 +34,6 @@ A wrap platform to manage wealth with a focus on pension products.
 
 ### Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(April 2017 - May 2021)_ <br>
-A wrap platform to manage wealth with a focus on pension products.
 
 * Improved the performance of an algorithm calculating and backfilling historic tax estimates. I reduced the runtime from several days to 3 hours.
 * Participated in implementing a daily report to support advisers in being compliant with MiFID II regulations
@@ -43,21 +41,21 @@ A wrap platform to manage wealth with a focus on pension products.
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning to improve download time of platform reports
 * Mentored more junior team members
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker
 
 
 ### Junior Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(April 2015 - April 2017)_ <br>
-A wrap platform to manage wealth with a focus on pension products.
 
 * Participated in code reviews, planning meetings, refinements and software releases
-* Designed and implemented a scheduled mechanism to obtain and store historic data as well as daily updates of MSCI benchmarks data. This provided a source for our performance tool to allow the generation of benchmark overlays. The project involved analysing files and data provided by MSCI, designing a DB structure to store the benchmark data, and populating the DB with historic data. The DB structure was well-designed and allowed us to easily import data from other benchmark providers into the same schema a few years later and is currently still in use.
-* Designed and implemented a solution to produce monthly and quarterly reports for PEP and AML sanction checks in cooperation with Business Analysts and the Financial Crime team
+* Designed and implemented a scheduled mechanism to obtain and store historic data and daily updates of MSCI benchmark data to allow the generation of benchmark overlays. The DB structure was well-designed and allowed us to easily import data from other benchmark providers into the same schema a few years later and is still in use.
+* Designed and implemented a solution to produce monthly and quarterly reports for PEP and AML sanction checks in cooperation with Business Analysts and the Financial Crime team.
 * Implemented an automated solution for the calculation of tax estimates for Onshore bond accounts. I transformed a manual, time-consuming, spreadsheet driven calculation from a daily 4-hour long process into a fast and reliable calculation that generateed the report in under 3 minutes.
 * _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl
 
 
 ## Personal
+* Languages: German (Native), English (Full professional proficiency)
 * Coordinator of the Edinburgh Greenpeace group since 2016
 * Currently mentoring a student in the [Career Ready](https://careerready.org.uk/) programme 2022/2023
 
