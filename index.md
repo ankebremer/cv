@@ -1,6 +1,6 @@
 # Anke Bremer
   
-[bremeran@googlemail.com](mailto:bremeran@googlemail.com) | [LinkedIn](https://www.linkedin.com/in/anke-bremer-29727179/)
+[bremeran@googlemail.com](mailto:bremeran@googlemail.com) &#124; [LinkedIn](https://www.linkedin.com/in/anke-bremer-29727179/)
 
 I am fascinated by solving complex problems where I can use my clear and logical mind as well as my creative thinking. 
 I love learning and believe in continuous improvement, especially in regard to code quality and readability.
