@@ -62,7 +62,7 @@ A wrap platform to manage wealth with a focus on pension products.
 ## Personal
 * Languages: German (Native), English (Full professional proficiency), British Sign Language (SCQF level 3)
 * Coordinator of the Edinburgh Greenpeace group since 2016
-* Currently mentoring a student in the [Career Ready](https://careerready.org.uk/) program 2022/2023
+* Currently mentoring a student in the [Career Ready](https://careerready.org.uk/) program for 2022/2023
 
 
 <!-- ### Footer
