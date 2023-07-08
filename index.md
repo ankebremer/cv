@@ -18,7 +18,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Technical lead for a team that consists of 6 developers and 2 business analysts
 * Collaborative refinement of requirements, responsibility for project timescales, communication with stakeholders
 * Line manage and mentor 5 developers
-* Currently bringing a legacy Java 8 code base to Java 17
+* Currently upgrading a legacy Java 8 code base to Java 17
 * Designed and co-implemented a solution for the calculation of annual Cost and Charges statements and the possibility for a future integration with an existing reporting tool for fast ad-hoc calculations
 * Designed and co-developed a data integration using a 3rd party API (intelliflo)
 * Analysed code base for improvements to increase performance and maintainability
