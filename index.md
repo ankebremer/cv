@@ -40,9 +40,9 @@ A wrap platform to manage wealth with a focus on pension products.
 ### Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(April 2017 - May 2021)_ <br>
 
-* Reduced the runtime of an algorithm calculating and backfilling historic tax estimates from several days to 3 hours.
+* Reduced the runtime of an algorithm calculating and backfilling historic tax estimates from several days to 3 hours
 * Co-developed a daily report to support advisers in being compliant with MiFID II regulations
-* Supported a DB upgrade which involved extensive testing and analysis across all our internal applications and a partial re-write of a number of platform reports due to schema changes.
+* Supported a DB upgrade which involved extensive testing and analysis across all our internal applications and a partial re-write of a number of platform reports due to schema changes
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning of platform reports
 * Mentored more junior team members
@@ -54,7 +54,7 @@ A wrap platform to manage wealth with a focus on pension products.
 
 * Participated in agile ceremonies, code reviews, planning meetings, refinements and regular software releases
 * Designed and implemented a scheduled mechanism to obtain and store historic data and daily updates of MSCI benchmark data to allow the generation of benchmark overlays. The DB structure was well-designed and allowed us to easily import data from other benchmark providers into the same schema a few years later and is still in use.
-* Designed and implemented a solution to produce monthly and quarterly reports for PEP and AML sanction checks in cooperation with Business Analysts and the Financial Crime team.
+* Designed and implemented a solution to produce monthly and quarterly reports for PEP and AML sanction checks in cooperation with Business Analysts and the Financial Crime team
 * Implemented an automated solution for the calculation of tax estimates for Onshore bond accounts. I transformed a manual, time-consuming, spreadsheet-driven calculation from a daily 4 hour long process into a fast and reliable calculation that generated the report in under 3 minutes.
 * _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl
 
