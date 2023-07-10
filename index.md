@@ -60,10 +60,10 @@ A wrap platform to manage wealth with a focus on pension products.
 
 ## Education
 
-### M.Sc. in Computer Science and Logic
+#### M.Sc. in Computer Science and Logic
 University of Leipzig _(10/2011 – 03/2014)_
 
-### B.Sc. in Computer Science and Japan Studies
+#### B.Sc. in Computer Science and Japan Studies
 University of Leipzig _(10/2003 – 10/2011)_
 
 ## Personal
