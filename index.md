@@ -7,7 +7,7 @@ I love learning and believe in continuous improvement, especially in regard to c
 I would love to build software systems that aid communities and positively impact the world we live in.
 
 ## Skills
-Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Agile methodologies
+Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Agile methodologies
 
 ## Experience
 
