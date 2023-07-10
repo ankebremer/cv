@@ -71,7 +71,7 @@ University of Leipzig _(10/2003 – 10/2011)_
 * Currently mentoring a student in the [Career Ready](https://careerready.org.uk/) program for 2022/2023
 * Coordinator of the Edinburgh Greenpeace group since 2016
 * Learning to play the harp
-* Volunteering in a project to set up and expand a community wildflower meadow and herb garden in my local community
+* Volunteering in a local community project to grow a wildflower meadow and herb garden
 
 
 <!-- ### Footer
