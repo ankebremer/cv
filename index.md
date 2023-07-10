@@ -46,7 +46,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning of platform reports
 * Mentored junior team members
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, Docker
 
 
 ### Junior Software Developer
