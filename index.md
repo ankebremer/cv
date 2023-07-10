@@ -32,7 +32,7 @@ A wrap platform to manage wealth with a focus on pension products.
 
 * Assisted in porting several batch and multithreaded ETL processes to AWS Lambda
 * Co-implemented GraphQL API
-* Mentored more junior team members
+* Mentored junior team members
 * Participated in and led agile ceremonies
 * _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS Lambda, AWS S3
 
@@ -45,7 +45,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Supported a DB upgrade which involved extensive testing and analysis across all our internal applications and a partial re-write of a number of platform reports due to schema changes
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning of platform reports
-* Mentored more junior team members
+* Mentored junior team members
 * _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker
 
 
