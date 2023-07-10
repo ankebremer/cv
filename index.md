@@ -58,6 +58,13 @@ A wrap platform to manage wealth with a focus on pension products.
 * Implemented an automated solution for the calculation of tax estimates for Onshore bond accounts. I transformed a manual, time-consuming, spreadsheet-driven calculation from a daily 4 hour long process into a fast and reliable calculation that generated the report in under 3 minutes.
 * _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl
 
+## Education
+
+### M.Sc. in Computer Science and Logic
+University of Leipzig _(10/2011 – 03/2014)_
+
+### B.Sc. in Computer Science and Japan Studies
+University of Leipzig _(10/2003 – 10/2011)_
 
 ## Personal
 * Languages: German (Native), English (Full professional proficiency), British Sign Language (SCQF level 3)
