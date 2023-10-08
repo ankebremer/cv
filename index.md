@@ -15,7 +15,7 @@ Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3,
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
 A wrap platform to manage wealth with a focus on pension products.
 
-* Technical lead for a team that consists of 6 developers and 2 business analysts
+* Technical lead for a team that consists of 5 developers and 2 business analysts
 * Collaborative refinement of requirements, responsibility for project timescales, communication with stakeholders
 * Line manage and mentor 5 developers
 * Currently upgrading a legacy Java 8 code base to Java 17
@@ -71,7 +71,6 @@ University of Leipzig _(10/2003 – 10/2011)_
 * Currently mentoring a student in the [Career Ready](https://careerready.org.uk/) program for 2022/2023
 * Coordinator of the Edinburgh Greenpeace group since 2016
 * Learning to play the harp
-* Volunteering in a local community project to grow a wildflower meadow and herb garden
 
 
 <!-- ### Footer
