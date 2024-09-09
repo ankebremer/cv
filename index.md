@@ -11,7 +11,7 @@ Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3,
 ## Experience
 
 ### Lead Software Developer
-[Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
+[Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - July 2024)_ <br>
 A wrap platform to manage wealth with a focus on pension products.
 
 * Technical lead for a team that consists of 6 developers and 2 business analysts
