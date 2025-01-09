@@ -67,4 +67,4 @@ A wrap platform to manage wealth with a focus on pension products.
 
 
 <!-- ### Footer
-Last updated: September 2024 -->
+Last updated: January 2025 -->
