@@ -6,9 +6,19 @@ I love learning and believe in continuous improvement, especially in regard to c
 I would love to build software systems that aid communities and positively impact the world we live in.
 
 ## Skills
-Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Agile methodologies, Stakeholder management, Mentoring and Coaching
+Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Agile methodologies, Stakeholder management, Mentoring and Coaching, Gradle, Spock
 
 ## Experience
+
+### Volunteering position (Backend developer)
+[The Climate App](https://www.theclimateapp.earth/) _(March 2025 - present)_ <br>
+Duolingo meets Strava for saving the planet
+
+* Support development of new features
+* Analyse code for improvements
+* Address tech debt
+* Set up and improve monitoring
+* _Technologies used:_ Java, Spring, Gradle, Spock, SQL (Postgres), Docker, Apidog, Gitlab
 
 ### Lead Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - July 2024)_ <br>
@@ -60,11 +70,11 @@ A wrap platform to manage wealth with a focus on pension products.
 
 ## Personal
 * Languages: German (Native), English (Full professional proficiency), British Sign Language (SCQF Lvl 3)
-* Coordinator of the Edinburgh Greenpeace group since 2016
 * Coaching at [Codebar](https://codebar.io/) events on a regular basis
 * Volunteering at the [Grassmarket Community Project](https://grassmarket.org/) since August 2024
 * Mentored a student in the [Career Ready](https://careerready.org.uk/) program 2022/2023
 * Crochet - pattern design and teaching
+* Learning to play the harp
 
 
 <!-- ### Footer
