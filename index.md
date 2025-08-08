@@ -10,7 +10,7 @@ Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3,
 
 ## Experience
 
-### Volunteering position (Backend developer)
+### Volunteering position (Backend developer, part-time)
 [The Climate App](https://www.theclimateapp.earth/) _(March 2025 - present)_ <br>
 Duolingo meets Strava for saving the planet
 
