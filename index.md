@@ -6,7 +6,7 @@ I love learning and believe in continuous improvement, especially in regard to c
 I would love to build software systems that aid communities and positively impact the world we live in.
 
 ## Skills
-Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Agile methodologies, Stakeholder management, Mentoring and Coaching
+Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Git, Agile methodologies, Stakeholder management, Mentoring and Coaching
 
 ## Experience
 
@@ -23,7 +23,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Analysed code base for improvements to increase performance and maintainability
 * Established agile ceremonies such as retrospective to be a collaborative and constructive feedback opportunity for the team to actively shape and improve our way of working
 * Grew the development team and oversaw collaborative hiring process
-* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, Docker
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, Docker, Bash, Javascript
 
 
 ### Senior Software Developer
@@ -44,8 +44,9 @@ A wrap platform to manage wealth with a focus on pension products.
 * Supported a DB upgrade which involved extensive testing and analysis across all our internal applications and a partial re-write of a number of platform reports due to schema changes.
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning of platform reports
+* Contributed to the webapp frontend with bug fixes and development 
 * Mentored junior team members
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker, React
 
 
 ### Junior Software Developer
