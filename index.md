@@ -6,7 +6,7 @@ I love learning and believe in continuous improvement, especially in regard to c
 I would love to build software systems that aid communities and positively impact the world we live in.
 
 ## Skills
-Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Agile methodologies, Stakeholder management, Mentoring and Coaching, Gradle, Spock
+Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, GraphQL, Docker, Git, Maven, Gradle, Spock, Agile methodologies, Stakeholder management, Mentoring and Coaching,
 
 ## Experience
 
@@ -14,7 +14,7 @@ Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3,
 [The Climate App](https://www.theclimateapp.earth/) _(March 2025 - present)_ <br>
 Duolingo meets Strava for saving the planet
 
-* Support development of new features
+* Development of new features
 * Analyse code for improvements
 * Address tech debt
 * Set up and improve monitoring
@@ -33,7 +33,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Analysed code base for improvements to increase performance and maintainability
 * Established agile ceremonies such as retrospective to be a collaborative and constructive feedback opportunity for the team to actively shape and improve our way of working
 * Grew the development team and oversaw collaborative hiring process
-* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, Docker
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, Docker, Bruno, Bash, Javascript
 
 
 ### Senior Software Developer
@@ -43,7 +43,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Co-implemented GraphQL API
 * Mentored junior team members
 * Participated in and led agile ceremonies
-* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, Docker
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, Docker, Bruno
 
 
 ### Software Developer
@@ -54,8 +54,9 @@ A wrap platform to manage wealth with a focus on pension products.
 * Supported a DB upgrade which involved extensive testing and analysis across all our internal applications and a partial re-write of a number of platform reports due to schema changes.
 * Participated in the development of a Hypermedia RESTful API
 * SQL performance tuning of platform reports
+* Contributed to webapp frontend with development and bug fixes
 * Mentored junior team members
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker, React
 
 
 ### Junior Software Developer
