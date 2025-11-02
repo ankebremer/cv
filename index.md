@@ -33,7 +33,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Analysed code base for improvements to increase performance and maintainability
 * Established agile ceremonies such as retrospective to be a collaborative and constructive feedback opportunity for the team to actively shape and improve our way of working
 * Grew the development team and oversaw collaborative hiring process
-* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, Docker, Bruno, Bash, Javascript
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, AWS CDK, AWS SQS, DynamoDB, Docker, Maven, Bruno, Bash, Javascript
 
 
 ### Senior Software Developer
@@ -43,7 +43,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Co-implemented GraphQL API
 * Mentored junior team members
 * Participated in and led agile ceremonies
-* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, Docker, Bruno
+* _Technologies used:_ Java, SQL (Oracle and Postgres), GraphQL, AWS CloudFormation, AWS Lambda, AWS S3, Maven, Docker, Bruno
 
 
 ### Software Developer
@@ -56,7 +56,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * SQL performance tuning of platform reports
 * Contributed to webapp frontend with development and bug fixes
 * Mentored junior team members
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl, GraphQL, Docker, React
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Maven, Querydsl, GraphQL, Docker, React
 
 
 ### Junior Software Developer
@@ -66,7 +66,7 @@ A wrap platform to manage wealth with a focus on pension products.
 * Designed and implemented a scheduled mechanism to obtain and store historic data and daily updates of MSCI benchmark data to generate benchmark overlays. The design provided an easy way to import data from other benchmark providers into the same schema.
 * Designed and implemented a solution to produce monthly and quarterly reports for PEP and AML sanction checks in cooperation with Business Analysts and the Financial Crime team.
 * Implemented an automated solution for the calculation of tax estimates for Onshore bond accounts. I transformed a manual, time-consuming, spreadsheet-driven calculation from a daily 4 hour long process into a fast and reliable calculation that generated the report in under 3 minutes.
-* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Querydsl
+* _Technologies used:_ Java, SQL (Oracle and Postgres), Spring, Maven, Querydsl
 
 
 ## Personal
