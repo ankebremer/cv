@@ -10,6 +10,9 @@ Java, SQL (Oracle and Postgres), Spring, AWS CloudFormation, AWS Lambda, AWS S3,
 
 ## Experience
 
+### Senior Software Developer (SEO)
+[Registers of Scotland](https://www.ros.gov.uk/) _(Mar 2026 - ongoing)_ <br>
+
 ### Lead Software Developer
 [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - July 2024)_ <br>
 A wrap platform to manage wealth with a focus on pension products.
